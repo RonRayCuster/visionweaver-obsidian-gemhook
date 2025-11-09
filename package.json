@@ -1,0 +1,15 @@
+{
+  "name": "visionweaver-obsidian-gemhook",
+  "version": "1.0.0",
+  "description": "Gemini Gem orchestration for Zeus",
+  "main": "main.js",
+  "scripts": {
+    "build": "esbuild main.ts --bundle --outfile=main.js --format=esm --target=es2020"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.6",
+    "esbuild": "0.13.12",
+    "obsidian": "latest",
+    "typescript": "^4.4.4"
+  }
+}
