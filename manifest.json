@@ -1,0 +1,9 @@
+{
+  "id": "visionweaver-obsidian-gemhook",
+  "name": "GemHook – Vision Weaver",
+  "version": "1.0.0",
+  "minAppVersion": "1.6.0",
+  "description": "Live Gemini Gem orchestration for Project God Core (Zeus) on Android tablet",
+  "author": "RonRayCuster",
+  "isDesktopOnly": false
+}
